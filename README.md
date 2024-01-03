@@ -11,14 +11,14 @@ An Online Shopping Application API where Users can register/login, add/explore p
 -   See all products
 -   Find products by category
 -   Add to cart/edit into the cart
--   Place Order
+-   Order Place
 
 
 ## Backend Work
 -  Proper Exception Handling
 -  Proper Input Validation
--   Data Stored in the database(mySQL)
--   User Authentication of signUp and Login
+-  User Authentication of signUp and Login
+-  Data Stored in the database(mySQL)
 
 ## Installation and Run
 -  You can clone this repo and start the serve on localhost
